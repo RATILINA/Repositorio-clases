@@ -29,7 +29,14 @@ correcto: message_1, _message__1
 incorrecto: 1message_1 
 """
 message = "hi pyyyyy"
-print(message)
+print(message) 
 
-cake = "wenuuuu"
-print(cake)
+"""
+Traceback: Es un registro de donde el interprete tuvo problemas
+al intentar ejecutar codigo
+
+NameError: Sucede cuandoolvidamos establecer el valor de una variable
+antes de utilizarla o cometimos un error ortografico al ingresar el 
+nombre de la variable (typo)
+"""
+
