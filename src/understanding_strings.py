@@ -1,4 +1,4 @@
-# STRINGS 
+# strings
 """ 
 un string es de manera sencills una serie de caracteres
 en python, todo lo que se encuentre entre vomillas simples 
