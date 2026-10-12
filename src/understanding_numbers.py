@@ -28,3 +28,12 @@ age = 34
 message = "charly tiene"+ str(age) +" años" #(error)
 # metodo build in como print, str()
 print(message)
+
+message_f = "charly tiene  años" 
+
+"""
+
+TypeError es que python no puede reconocer 
+el tipo de informacion que se esta usando
+
+"""
