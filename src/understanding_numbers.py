@@ -9,6 +9,7 @@ print(3+3)
 print(4/4)
 print(2-2)
 print(3*4)
+print(8**2)#raiz cuadrada
 number_1 = 5
 number_2 = 10
 print(number_1 + number_2)
@@ -21,6 +22,7 @@ print(0.1 + 0.1)
 print(0.1 - 0.7)
 print(0.1 / 0.3)
 print(0.1 * 0.5)
+
 
 # Ejercicio
 
